@@ -1,0 +1,4 @@
+[Ali's chat session] room: "Galya joins the chat"
+[Ali's chat session] room: "Sofa joins the chat"
+[Galya's chat session] room: "Sofa joins the chat"
+[Sofa's chat session] Galya: "will we go out today?"
